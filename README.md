@@ -1,6 +1,6 @@
 # Moment 3 – Loop-based Menu Program
 
-## 📖 Beskrivning
+## Beskrivning
 Detta program visar en meny i en loop och utför olika kommandon beroende på användarens val.  
 Programmet upprepas tills användaren väljer att avsluta.
 
@@ -13,7 +13,7 @@ Programmet upprepas tills användaren väljer att avsluta.
 
 ---
 
-## ▶️ Så här kör du
+## Så här kör du
 Öppna terminalen i mappen där filen ligger och skriv:
 ```bash
 py moment3.py
@@ -22,7 +22,7 @@ py moment3.py
 
 ---
 
-## 💻 Exempelutskrift
+## Exempelutskrift
 ```
 ==== MENU ====
 1. Say hello
@@ -54,7 +54,7 @@ Enter a number: 3
 
 ---
 
-## 📂 Filstruktur
+## Filstruktur
 ```
 Moment-3/
 │
@@ -64,5 +64,5 @@ Moment-3/
 
 ---
 
-## ✍️ Författare
-- *Ditt namn här*
+## Författare
+- Lucas Bergman
